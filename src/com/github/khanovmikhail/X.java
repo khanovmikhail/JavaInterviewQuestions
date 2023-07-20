@@ -1,5 +1,8 @@
 package com.github.khanovmikhail;
 
+/**
+ * What the output would be?
+ */
 public class X {
     static int x;
 
